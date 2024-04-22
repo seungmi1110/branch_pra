@@ -1,2 +1,3 @@
-for i in range(6):
-    print('안녕하세여~')
+for i in range(5):
+    if i % 2 == 0:
+        print('안녕하세여~')
